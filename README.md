@@ -27,9 +27,9 @@
 
 ---------
 
-|  [封面效果图](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/main/figures/sysu_report.png) |  [目录效果图](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/main/figures/index.png)| 
+|  [封面效果图](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/master/figures/sysu_mst_thesis_proposal.png) |  [目录效果图](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/master/figures/index.png)| 
 |:---:|:---:|
-| ![](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/main/figures/sysu_report.png?raw=true) | ![](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/main/figures/index.png?raw=true)| 
+| ![](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/master/figures/sysu_mst_thesis_proposal.png?raw=true) | ![](https://github.com/wangplin/SYSU_MST_Thesis_Proposal_Template/blob/master/figures/index.png?raw=true)| 
 
 ## 参考
 
