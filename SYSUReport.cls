@@ -195,7 +195,7 @@
         % \vspace{0.5cm}
         
         % 攻读X士学位研究生 - 黑体 二号
-        \heiti \zihao{2} 攻读X士学位研究生 \par
+        \heiti \zihao{2} 攻读\degree 学位研究生 \par
         % \vspace{2cm}
         
         % 学位论文开题报告 - 宋体 小初 加粗
