@@ -44,6 +44,10 @@
 \setCJKsansfont{SimHei}[AutoFakeBold=2.5] % 黑体
 \setmainfont{Times New Roman} % 英文和数字使用Times New Roman
 
+%% 定义隶书字体
+\setCJKfamilyfont{lishu}{LiSu}[AutoFakeBold=2.5]
+\newcommand{\lishu}{\CJKfamily{lishu}}
+
 %% 设置行距为固定值22pt
 \RequirePackage{setspace}
 \setstretch{1.5} % 大约22pt行距（12pt字号 × 1.5 ≈ 18pt基线距，加上字高约22pt）
