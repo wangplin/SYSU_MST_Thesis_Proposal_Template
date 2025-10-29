@@ -80,7 +80,7 @@
         indent = 2em, % 左起空两格（4个半角字符）
         beforeskip = 0pt, % 段前0行
         afterskip = 0pt, % 段后0行
-        runin = true, % 与正文同行（接排）
+        runin = false, % 标题独立成行（不接排）
         number = (\arabic{paragraph}), % 项序号：(1), (2)...
         name = {,}, % 去除默认标题前后缀
         aftername = {}, % 编号后不加额外空格
