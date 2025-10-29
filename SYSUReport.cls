@@ -77,13 +77,18 @@
     },
     paragraph = {
         format = \songti\zihao{-4}, % 款、项标题：小四号宋体
-        indent = 2em, % 左起空两格
+        indent = 2em, % 左起空两格（4个半角字符）
         beforeskip = 0pt, % 段前0行
         afterskip = 0pt, % 段后0行
-        runin = false, % 不与正文同行
+        runin = true, % 与正文同行（接排）
         number = (\arabic{paragraph}), % 项序号：(1), (2)...
+        name = {,}, % 去除默认标题前后缀
+        aftername = {}, % 编号后不加额外空格
     }
 }
+
+%% 设置编号深度，使 paragraph 层级显示编号
+\setcounter{secnumdepth}{4} % 0=section, 1=subsection, 2=subsubsection, 3=paragraph, 4=paragraph
 
 %% 设置正文字体和字号
 \renewcommand{\normalsize}{\fontsize{12pt}{22pt}\selectfont} % 小四号，行距22pt
